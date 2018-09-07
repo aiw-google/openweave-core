@@ -1693,6 +1693,14 @@ typedef WEAVE_CONFIG_ERROR_TYPE WEAVE_ERROR;
 #define WEAVE_ERROR_UNSUPPORTED_THREAD_NETWORK_CREATE            _WEAVE_ERROR(178)
 
 /**
+ * @def WEAVE_EVENT_ID_FOUND
+ *
+ * @brief
+ *   Event ID matching the criteria was found
+ */
+#define WEAVE_EVENT_ID_FOUND                                     _WEAVE_ERROR(179)
+
+/**
  *  @}
  */
 
